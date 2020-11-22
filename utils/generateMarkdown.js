@@ -1,4 +1,3 @@
-
 //function to call specific license badges
 //is there a way to loop through the choices and call the badges?
 function renderLicenseBadge(license) {
@@ -60,7 +59,7 @@ function generateMarkdown(data) {
 
 
   ## Questions
-  * Find me on GitHub: ${data.username}
+  * Find me on GitHub: (https://github.com/${data.username}/)
   * Email me: ${data.email}
 `;
 }

@@ -21,14 +21,14 @@
   user
 
   ## Test
-  user
+  test
 
   ## License
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
     
   
 
 
   ## Questions
-  * Find me on GitHub: db
-  * Email me: @
+  * Find me on GitHub: (https://github.com/dbailey11/)
+  * Email me: gmail
