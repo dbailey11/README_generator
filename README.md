@@ -1,7 +1,9 @@
 
-  # Application Title: repo
+  # Application Title: Readme Generator
+  [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<ACADEMIC>-<COLOR>.svg)](https://shields.io/)License Documentation: (https://opensource.org/licenses/AFL-3.0)
+    
 
-  ## Application Discription: repo
+  ## Application Discription: A simple command line application that allows users to input project information and generate a readme file.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,23 +14,22 @@
   * [Questions](#questions)
  
   ## Installation 
-  user
+  A code editing software or terminal to run the command line application.
 
   ## Usage
-  user
+  First, use command npm install. Second, use command node index.js to run application.
 
   ## Contributing
-  user
+  Free to contribute.
 
   ## Test
-  test
+  npm test
 
   ## License
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<ACADEMIC>-<COLOR>.svg)](https://shields.io/)License Documentation: (https://opensource.org/licenses/AFL-3.0)
     
-  
-
 
   ## Questions
-  * Find me on GitHub: (https://github.com/dbailey11/)
-  * Email me: gmail
+  * If you have any questions please feel free to email me or stop by on my GitHub! 
+  *Find me on GitHub: (https://github.com/dbailey11/)
+  * Email me: baileydevyn19@gmail.com

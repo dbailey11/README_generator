@@ -1,12 +1,9 @@
-//variable declaration
+//module variable declaration
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 
-//creating variable for write file module in fs
-// const writeFileAsync = util.promisify(fs.writeFile);
-
-//internal modules
+//internal module variable declaration
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
 // array of questions for user for Readme
