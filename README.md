@@ -19,6 +19,9 @@
   ## Usage
   First, use command npm install. Second, use command node index.js to run application.
 
+  ## Screenshot
+  ![Image of command line application](img/screenshot.JPG)
+  
   ## Contributing
   Free to contribute.
 
@@ -31,5 +34,5 @@
 
   ## Questions
   * If you have any questions please feel free to email me or stop by on my GitHub! 
-  *Find me on GitHub: (https://github.com/dbailey11/)
+  * Find me on GitHub: (https://github.com/dbailey11/)
   * Email me: baileydevyn19@gmail.com
