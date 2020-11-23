@@ -1,9 +1,9 @@
 
-  # Application Title: readme generator
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) License Documentation:(https://www.mozilla.org/en-US/MPL/2.0/)
+  # Application Title: Readme Generator
+  [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<ACADEMIC>-<COLOR>.svg)](https://shields.io/)License Documentation: (https://opensource.org/licenses/AFL-3.0)
     
 
-  ## Application Discription: command line application for creating a readme file
+  ## Application Discription: A command line application using Node.js. Allows users to input project descripts and get back a project readme.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,22 +14,25 @@
   * [Questions](#questions)
  
   ## Installation 
-  
+  npm install and either a code editing software or terminal
 
   ## Usage
-  
+  Use node index.js to start application
+
+  ## Screenshot
+  ![Image of command line application](img/screenshot.JPG)
 
   ## Contributing
-  
+  Will need to work on a seperate branch and add commits/comments.
 
   ## Test
-  
+  npm test
 
   ## License
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) License Documentation:(https://www.mozilla.org/en-US/MPL/2.0/)
+  [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<ACADEMIC>-<COLOR>.svg)](https://shields.io/)License Documentation: (https://opensource.org/licenses/AFL-3.0)
     
 
   ## Questions
   * If you have any questions please feel free to email me or stop by on my GitHub! 
   * Find me on GitHub: (https://github.com/dbailey11/)
-  * Email me: baileydevyn@gmail.com
+  * Email me: baileydevyn19@gmail.com
